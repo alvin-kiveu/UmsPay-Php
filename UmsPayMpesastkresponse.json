@@ -1,0 +1,45 @@
+{
+  "ResponseCode": 0,
+  "ResponseDescription": "Success. Request accepted for processing",
+  "MerchantRequestID": "ed49-4afa-95de-fde98781ae6b35867500",
+  "CheckoutRequestID": "ws_CO_02062024095419717768168060",
+  "TransactionID": "UMSPID0206202409542065888",
+  "TransactionAmount": 2,
+  "TransactionReceipt": "SF215W6SKZ",
+  "TransactionDate": "20240602095420",
+  "TransactionReference": "TEST1",
+  "Msisdn": "254768168060"
+}{
+  "ResponseCode": 1032,
+  "ResponseDescription": "Request cancelled by user",
+  "MerchantRequestID": "4009-4581-b58e-7473a3062b66105206615",
+  "CheckoutRequestID": "ws_CO_02062024095608555768168060",
+  "TransactionID": "UMSPID0206202409560839854",
+  "TransactionAmount": 5,
+  "TransactionReceipt": "",
+  "TransactionDate": "20240602095608",
+  "TransactionReference": "TEST1",
+  "Msisdn": "254768168060"
+}{
+  "ResponseCode": 2001,
+  "ResponseDescription": "The initiator information is invalid.",
+  "MerchantRequestID": "4009-4581-b58e-7473a3062b66105208118",
+  "CheckoutRequestID": "ws_CO_02062024095649502768168060",
+  "TransactionID": "UMSPID0206202409564927958",
+  "TransactionAmount": 200,
+  "TransactionReceipt": "",
+  "TransactionDate": "20240602095649",
+  "TransactionReference": "TEST1",
+  "Msisdn": "254768168060"
+}{
+  "ResponseCode": 1,
+  "ResponseDescription": "The balance is insufficient for the transaction.",
+  "MerchantRequestID": "973c-445b-8cb7-7d67f34a211c118806730",
+  "CheckoutRequestID": "ws_CO_02062024095829779768168060",
+  "TransactionID": "UMSPID0206202409583056512",
+  "TransactionAmount": 10000,
+  "TransactionReceipt": "",
+  "TransactionDate": "20240602095830",
+  "TransactionReference": "TEST1",
+  "Msisdn": "254768168060"
+}
